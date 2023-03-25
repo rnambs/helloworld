@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a junior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance. Right now, I spend most of my time leading the tech efforts for [Jochi](https://www.jochi.info/), which simplifies online school and learning for students and administrators - a massive problem that my co-founder and I faced. If you know of schools or administrators that could benefit from this, feel free to reach out to me!
+I'm a junior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance.
 
-I'm also working on building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. I'm also a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) working under Professor Susan Davidson - a graduate level course on Databases, Information Systems, and Data Management. For more of my past projects and involvements, scroll down.
+Right now, I spend most of my time leading the tech efforts for [Jochi](https://www.jochi.info/), which simplifies online school and learning for students and administrators - a massive problem that my co-founder and I faced. If you know of schools or administrators that could benefit from this, feel free to reach out to me!
+
+I'm also working on building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. Currently, I work as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate level course on  Databases, Information Systems, and Data Management - working under Professor Susan Davidson. To see more of my past projects and involvements, scroll down.
 
 ## Experiences
 
