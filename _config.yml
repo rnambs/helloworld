@@ -1,6 +1,6 @@
 title: Rahul Nambiar
-url: "https://rnambiar.me"
-baseurl: "about"
+url: "https://rnambiar.com"
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
