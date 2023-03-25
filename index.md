@@ -41,3 +41,5 @@ Year | Where | What
 * Susan Davidson, Weiss Professor, Computer and Information Science, University of Pennsylvania
 
 * A lot of my projects have to be in private GitHub repos due to academic integrity rules. If you're interested in any of them, contact me and I'll be happy to chat about them!
+
+
