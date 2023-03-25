@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [rahulnambiarr3@gmail.com](mailto:rahulnambiarr3@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-267-881-6520](tel:+12678816520)
 
----
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Linkedin](https://www.linkedin.com/in/rahul-nambiar27/)
+2. [Facebook](https://www.facebook.com/rahul.nambiar27)
