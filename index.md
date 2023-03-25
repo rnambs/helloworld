@@ -10,7 +10,7 @@ I'm a junior at the University of Pennsylvania, majoring in Computer Science. I'
 
 Right now, I spend most of my time leading the tech efforts for [Jochi](https://www.jochi.info/), which simplifies online school and learning for students and administrators - a massive problem that my co-founder and I faced. If you know of schools or administrators that could benefit from this, feel free to reach out to me!
 
-I'm also building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. Currently, I work as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate level course on  Databases, Information Systems, and Data Management - working with Professor Susan Davidson. To see more of my past projects and involvements, scroll down.
+I'm also building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. I work as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate level course on  Databases, Information Systems, and Data Management - collaborating with Professor Susan Davidson at Penn Engineering. You can see more of my past projects and involvements below!
 
 ## Experiences
 
@@ -28,7 +28,7 @@ Year | Where | What
 
 **Penn Garage:** Working with Professor Fouh as an extension of CIS 3500 - Software Engineering at Penn. Penn Garage is an (integrated with Penn systems) marketplace that allows students to easily trade/sell items. One of the biggest problems at Penn is the waste during move-out/move-in, and this allows students to save money, time, and the environment - all in a safe and personalized way.
 
-**Superscalar Pipelined Processor:** Currently building a 5 stage superscalar processor for CIS 5710 - a graduate level course on computer architecture. Includes a fully pipelined, complete bypassing structure and can complete a single cycle in ~60ns. Inspired my the MIPS processor architecture.
+**Superscalar Pipelined Processor:** Currently building a 5 stage superscalar processor for CIS 5710 - a graduate level course on computer architecture. Includes a fully pipelined, complete bypassing structure and can complete a single cycle in ~60ns. Inspired by the MIPS processor architecture.
 
 **Where2Move:** I built a React powered app on an AWS SQL server using Express to help users determine the next best place to move. Inputting weather, rent, cost of living, transportation, and 4 other factors outputs the top locations on an interactive map that best suit your preferences. This was a fun project for CIS 5500 - for which I'm a teaching assistant right now - and showed me the importance of query optimization using caching and indexing to boost the efficiency of client-side applications.
 
