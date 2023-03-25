@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hi!
+## Hi, I'm Rahul
 
 <img class="profile-picture" src="photo.jpg">
 
