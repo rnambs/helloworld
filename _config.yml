@@ -1,6 +1,6 @@
 title: Rahul Nambiar
 url: "https://rnambs.github.io"
-baseurl: "/researcher"
+baseurl: "/helloworld"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About Me"
-   link: "/researcher/"
+   link: "/helloworld"
  - name: "Resume"
-   link: "/resume.pdf"
+   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
