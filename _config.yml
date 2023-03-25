@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About Me"
-   link: "/me"
+ - name: "Portfolio"
+   link: "tinyurl.com/rnambiar"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
