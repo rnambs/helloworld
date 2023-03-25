@@ -10,7 +10,7 @@ I'm a junior at the University of Pennsylvania, majoring in Computer Science. I'
 
 Right now, I spend most of my time leading the tech efforts for [Jochi](https://www.jochi.info/), which simplifies online school and learning for students and administrators - a massive problem that my co-founder and I faced. If you know of schools or administrators that could benefit from this, feel free to reach out to me!
 
-I'm also working on building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. Currently, I work as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate level course on  Databases, Information Systems, and Data Management - working with Professor Susan Davidson. To see more of my past projects and involvements, scroll down.
+I'm also building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. Currently, I work as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate level course on  Databases, Information Systems, and Data Management - working with Professor Susan Davidson. To see more of my past projects and involvements, scroll down.
 
 ## Experiences
 
