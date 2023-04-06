@@ -8,7 +8,7 @@ layout: default
 
 I'm a junior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance.
 
-Right now, I spend most of my time leading the tech efforts for [Jochi](https://www.jochi.info/), which simplifies online school and learning for students and administrators - a massive problem that my co-founder and I faced. If you know of schools or administrators that could benefit from this, feel free to reach out to me!
+Right now, I spend most of my time leading the tech efforts for [Jochi](https://www.jochi.info/) with [Yash Dhir](https://www.linkedin.com/in/yashdhir/), simplifying online school and learning for students and administrators. If you know of schools or administrators that could benefit from this, feel free to reach out to me!
 
 I'm also building **Penn Garage** - a MERN stack marketplace application to allow Penn students to buy/sell/trade items in a safe and convenient way. I work as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate level course on  Databases, Information Systems, and Data Management - collaborating with Professor Susan Davidson at Penn Engineering. You can see more of my past projects and involvements below!
 
@@ -19,7 +19,7 @@ Here is a quick run through of what I've been doing the past few years.
 Year | Where | What
 -----|-------|--------
 2023 | University of Pennsylvania  | CIS 5500 Teaching Assistant
-2023 | Jochi | Co-founder, Tech Lead
+2023 | Jochi | Tech Lead
 2022 | National Basketball Association | Software Engineer Intern
 2021 | Wharton Asia Exchange | Trading Analyst (Quant Team)
 2020 | Occasions | Freelance Web Development
