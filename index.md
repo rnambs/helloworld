@@ -10,7 +10,7 @@ I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'
 
 I'm also the co-founder at [Jochi](https://www.jochi.info/) with [Yash Dhir](https://www.linkedin.com/in/yashdhir/), simplifying online school and learning for students and administrators. If you (or someone you know) have institutes or people in mind that could benefit from this, or if you just want to chat, feel free to reach out to me [here](https://www.linkedin.com/in/rahul-nambiar27/)!
 
-I also work (Spring and Fall 2023) as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) - a graduate-level course on  Databases, Information Systems, and Data Management - led by Professor Susan Davidson at Penn Engineering. You can see more of my past projects and involvements below!
+I also work (Spring and Fall 2023) as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) a graduate-level course on  Databases, Information Systems, and Data Management led by Professor Susan Davidson at Penn Engineering.
 
 ## Experiences
 
@@ -27,13 +27,16 @@ Year | Where | What
 
 ## Projects
 
-**Penn Garage:** Worked with Professor Fouh and 4 friends as an extension of CIS 3500 - Software Engineering at Penn. Penn Garage is a (integrated with Penn systems) marketplace that allows students to easily trade/sell items. One of the biggest problems at Penn is the hassle during move-out/move-in, and this allows students to save money and time in a safe and eco-friendly manner.
+**Penn Garage:** Worked with Professor Fouh and 4 friends as an extension of CIS 3500 - Software Engineering. Penn Garage is a (integrated with Penn systems) marketplace that allows students to easily trade/sell items. One of the biggest problems at Penn is the hassle during move-out/move-in, and this allows students to save money and time in a safe and eco-friendly manner.
 
 **Superscalar Pipelined Processor:** Built a 5-stage superscalar processor for CIS 5710 - a graduate-level course on computer architecture. Includes a fully pipelined, complete bypassing structure and can complete a single cycle in ~60ns. Inspired by the MIPS processor architecture.
 
 **Where2Move:** Created a React-powered app on an AWS SQL server using Express with 3 friends to help users determine the next best place to move. Inputting weather, rent, cost of living, transportation, and 4 other factors outputs the top locations on an interactive map that best suits your preferences. This was a fun project for CIS 5500 - for which I'm a teaching assistant right now - and showed me the importance of query optimization using caching and indexing to boost the efficiency of deployed applications.
 
 **Fun Projects** I've had the chance to work on many fun projects through my courses: here are a few of them. Built a fully functional compiler in C for the J programming language for the final project of CIS 2400 - Computer Systems. Translated J code to LC4 - Penn's internal ISA, and was able to connect to an internal simulator to play games such as Wordle. Also built Minesweeper for a class - one of my first OOP products!
+
+## Interests
+
 
 
 ****
