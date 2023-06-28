@@ -4,7 +4,7 @@ layout: default
 
 ## Hi - I'm Rahul
 
-<img class="profile-picture" src="edited headshot.png">
+<img class="profile-picture" src="compressed_headshot.jpg">
 
 I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance. Currently, I'm a Software Engineering Intern at Rhombus, working on their new [Access Control](https://www.rhombus.com/access-control/).
 
