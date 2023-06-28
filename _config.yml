@@ -1,9 +1,8 @@
 title: Rahul Nambiar
-url: "https://rnambs.github.io"
-baseurl: "/me/"
+url: "https://rnambiar.me"
+#baseurl: "/me/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
