@@ -16,6 +16,6 @@ is_contact: true
 1. [Linkedin](https://www.linkedin.com/in/rahul-nambiar27/)
 2. [Github](https://github.com/rnambs)
 
-##  Here's where I (physically) am right now!
+##  Here's where I am right now!
 
 <img class="my-map" src="cali_map.jpg">
