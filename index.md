@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="compressed_headshot.jpg">
 
-I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance. Currently, I'm a Software Engineering Intern at Rhombus, working on their new [Access Control](https://www.rhombus.com/access-control/).
+I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance. Currently, I'm a Software Engineering Intern at Rhombus, working on their new [Access Control](https://www.rhombus.com/access-control/){:target="_blank"}.
 
-I'm also the co-founder at [Jochi](https://www.jochi.info/) with [Yash Dhir](https://www.linkedin.com/in/yashdhir/), simplifying online school and learning for students and administrators. If you (or someone you know) have institutes or people in mind that could benefit from this, or if you just want to chat, feel free to reach out to me [here](https://www.linkedin.com/in/rahul-nambiar27/)!
+I'm also the co-founder at [Jochi](https://www.jochi.info/){:target="_blank"} with [Yash Dhir](https://www.linkedin.com/in/yashdhir/){:target="_blank"}, simplifying online school and learning for students and administrators. If you (or someone you know) have institutes or people in mind that could benefit from this, or if you just want to chat, feel free to reach out to me [here](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"}!
 
-I also work (Spring and Fall 2023) as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/) a graduate-level course on  Databases, Information Systems, and Data Management led by Professor Susan Davidson at Penn Engineering.
+I also work (Spring and Fall 2023) as a Teaching Assistant for [CIS 5500 - Databases](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="_blank"} a graduate-level course on  Databases, Information Systems, and Data Management led by Professor Susan Davidson at Penn Engineering.
 
 ## Experiences
 
