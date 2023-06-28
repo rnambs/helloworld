@@ -4,7 +4,7 @@ layout: default
 
 ## Hi - I'm Rahul
 
-<img class="profile-picture" src="photo.jpg">
+<img class="profile-picture" src="edited headshot.png">
 
 I'm a junior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything programming, data, product, and finance.
 
