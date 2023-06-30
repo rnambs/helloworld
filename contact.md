@@ -7,8 +7,6 @@ is_contact: true
 
 * Email (School): [rnambiar@seas.upenn.edu](mailto:rnambiar@seas.upenn.edu)
 
-* Phone: [+1-267-881-6520](tel:+12678816520)
-
 
 
 ## Social
