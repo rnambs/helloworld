@@ -14,7 +14,6 @@ is_contact: true
 ## Social
 
 1. [Linkedin](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"}
-2. [Github](https://github.com/rnambs){:target="_blank"}
 
 ##  Here's where I am right now!
 
