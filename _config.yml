@@ -10,11 +10,11 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Github"
+   link: "https://github.com/rnambs"
  - name: "Portfolio"
    link: "portfolio"
  - name: "Resume"
    link: "Nambiar_2024.pdf"
  - name: "Contact"
    link: "contact"
- - name: "Github"
-   link: "https://github.com/rnambs"
