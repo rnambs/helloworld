@@ -11,7 +11,7 @@ sass:
 
 nav:
  - name: "Github"
-   link: "https://github.com/rnambs"
+   link: "https://github.com/rnambs"{:target="_blank"}
  - name: "Portfolio"
    link: "portfolio"
  - name: "Resume"
