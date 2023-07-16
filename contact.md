@@ -13,6 +13,6 @@ is_contact: true
 
 1. [Linkedin](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"}
 
-##  Here's where I am right now!
+##  Here's what I'm listening to
 
-<img class="my-map" src="cali_map.jpg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7jvcSnCnugLcisBCNBm60s?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
