@@ -9,7 +9,7 @@ layout: default
 
 ## Social
 
-1. [Linkedin](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"}
+1. [LinkedIn](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"}
 
 ##  Here's what I'm listening to
 
