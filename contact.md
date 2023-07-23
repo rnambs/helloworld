@@ -8,7 +8,4 @@ layout: default
 ## Social
 
 1. [LinkedIn](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"}
-
-##  Here's what I'm listening to
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7jvcSnCnugLcisBCNBm60s?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+2. [Spotify] (https://open.spotify.com/user/es7jhpaayb06oohqh2gnvy9sk?si=9e3399dccb754261){:target="_blank"}
