@@ -3,7 +3,7 @@ layout: default
 ---
 ## Contact
 
-* Email: rnambiar[at]seas[dot]upenn[dot]edu
+* Email: rnambiar[at]upenn[dot]edu
 
 ## Social
 
