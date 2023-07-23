@@ -3,9 +3,7 @@ layout: default
 ---
 ## Contact
 
-* Email (Personal): [rahulnambiarr3@gmail.com](mailto:rahulnambiarr3@gmail.com)
-
-* Email (School): rnambiar[at]seas[dot]upenn[dot]edu
+* Email: rnambiar[at]seas[dot]upenn[dot]edu
 
 ## Social
 
