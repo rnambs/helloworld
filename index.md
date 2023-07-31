@@ -33,7 +33,7 @@ Year | Where | What
 
 **Where2Move:** Created a React-powered app on an AWS SQL server using Express with 3 friends to help users determine the next best place to move. Inputting weather, rent, cost of living, transportation, and 4 other factors outputs the top locations on an interactive map that best suits your preferences. This was a fun project for CIS 5500 - for which I'm a teaching assistant right now - and showed me the importance of query optimization using caching and indexing to boost the efficiency of deployed applications.
 
-**Fun Projects** I've had the chance to work on many fun projects through my courses: here are a few of them. Built a fully functional compiler in C for the J programming language for the final project of CIS 2400 - Computer Systems. Translated J code to LC4 - Penn's internal ISA, and was able to connect to an internal simulator to play games such as Wordle. Also built Minesweeper for a class - one of my first OOP products!
+**Fun Projects:** I've had the chance to work on many cool mini-projects through my courses: here are a few of them. Built a fully functional compiler in C for the J programming language for the final project of CIS 2400 - Computer Systems. Translated J code to LC4 - Penn's internal ISA, and was able to connect to an internal simulator to play games such as Wordle. Also built Minesweeper for a class - one of my first OOP products!
 
 ****
 ## References
