@@ -3,7 +3,7 @@ layout: default
 ---
 ## Contact
 
-* Email: *rnambiar*[at]*upenn*[dot]*edu*
+* Email: **rnambiar**[at]**upenn**[dot]**edu**
 
 ## Social
 
