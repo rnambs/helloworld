@@ -25,6 +25,8 @@ Year | Where | What
 
 ## Projects
 
+**Apple Wallet Pass Creator:** Ever wanted to make your own Apple Wallet pass, just like the credit/transit cards? I created a standalone app using Java & Spring to do just this - you can extend the code to create any type of pass you like. This was an extension of my internship project at Rhombus, and not only was it one of the most fun ones I've done, I learnt a lot about cryptography through hashing algorithms and package signing, building microservices through Spring, working with iOS, and UI/UX.
+
 **Penn Garage:** Worked with Professor Fouh and 4 friends as an extension of CIS 3500 - Software Engineering. Penn Garage is a (integrated with Penn systems) marketplace that allows students to easily trade/sell items. One of the biggest problems at Penn is the hassle during move-out/move-in, and this allows students to save money and time in a safe and eco-friendly manner. Built on MERN stack.
 
 **Superscalar Pipelined Processor:** Built a 5-stage superscalar processor for CIS 5710 - a graduate-level course on computer architecture. Includes a fully pipelined, complete bypassing structure and can complete a single cycle in ~60ns. Inspired by the MIPS processor architecture, built primarily using Verilog.
