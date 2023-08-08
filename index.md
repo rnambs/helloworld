@@ -36,6 +36,6 @@ Year | Where | What
 **Fun Projects:** I've had the chance to work on many cool mini-projects through my courses: here are a few of them. Built a fully functional compiler in C for the J programming language for the final project of CIS 2400 - Computer Systems. Translated J code to LC4 - Penn's internal ISA, and was able to connect to an internal simulator to play games such as Wordle. Also built Minesweeper for a class - one of my first OOP products!
 
 ****
-## References
+## Boring stuff
 
 * A lot of my projects have to be in private GitHub repos due to academic integrity rules. If you're interested in any of them, contact me and I'll be happy to chat about them!
