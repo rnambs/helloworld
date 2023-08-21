@@ -16,8 +16,8 @@ Here is a quick run-through of what I've been doing for the past few years.
 
 | Year | Where                           | What                         |
 | ---- | ------------------------------- | ---------------------------- |
-| 2023 | University of Pennsylvania      | CIS 5500 Teaching Assistant  |
 | 2023 | Jochi                           | Co-founder, Tech Lead        |
+| 2023 | University of Pennsylvania      | CIS 5500 Teaching Assistant  |
 | 2023 | Rhombus                         | Software Engineer Intern     |
 | 2022 | National Basketball Association | Software Engineer Intern     |
 | 2021 | Wharton Asia Exchange           | Trading Analyst (Quant Team) |
