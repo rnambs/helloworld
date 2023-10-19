@@ -25,7 +25,7 @@ Here is a quick run-through of what I've been doing for the past few years.
 
 ## Courses
 
-I've had the chance to take very interesting courses at Penn Engineering and Wharton that have guided me to explore the world of data science, finance, and software engineering. Some of these include: **CIS 5020: Analysis of Algorithms**, **CIS 5450: Big Data Analytics**, **CIS 5210: Artificial Intelligence**, **EAS 5450: Entrepreneurship (with a focus on VC strategy and quantitative financing techniques)**, **MGMT 2670: Entrepreneurship and Technological Innovation**.
+I've had the chance to take very interesting courses at Penn Engineering and Wharton that have guided me to explore the world of data science, finance, and software engineering. Some of these include: CIS 5020: **Analysis of Algorithms**, CIS 5450: **Big Data Analytics**, CIS 5210: **Artificial Intelligence**, EAS 5450: **Entrepreneurship** (with a focus on VC strategy and quantitative financing techniques), MGMT 2670: **Entrepreneurship and Technological Innovation**.
 
 I'd love to chat about any/all of these, and you can see their impact in everything I strive to do!
 
