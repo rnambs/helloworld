@@ -23,6 +23,12 @@ Here is a quick run-through of what I've been doing for the past few years.
 | 2021 | Wharton Asia Exchange           | Trading Analyst (Quant Team) |
 | 2020 | Occasions                       | Freelance Web Development    |
 
+## Courses
+
+I've had the chance to take very interesting courses at Penn Engineering and Wharton that have guided me to explore the world of data science, finance, and software engineering. Some of these include: **CIS 5020: Analysis of Algorithms**, **CIS 5450: Big Data Analytics**, **CIS 5210: Artificial Intelligence**, **EAS 5450: Entrepreneurship (with a focus on VC strategy and quantitative financing techniques)**, **MGMT 2670: Entrepreneurship and Technological Innovation**.
+
+I'd love to chat about any/all of these, and you can see their impact in everything I strive to do!
+
 ## Projects
 
 **Apple Wallet Pass Creator:** I created a standalone app using Java & Spring to create Apple Wallet passes - you can extend the code to create any type of pass you like. This was an extension of my internship project at Rhombus, and not only was it one of the most fun ones I've done, I learnt a lot about cryptography through hashing algorithms and package signing, building microservices through Spring, working with DynamoDB and cloud services, and UI/UX.
