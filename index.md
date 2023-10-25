@@ -8,7 +8,7 @@ layout: default
 
 I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything software, data, product, and finance. Currently, I'm a Teaching Assistant for [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="\_blank"} at Penn Engineering, a course on Databases and Information Systems.
 
-I'm also co-founder at [Jochi](https://www.jochi.info/){:target="\_blank"} with [Yash Dhir](https://www.linkedin.com/in/yashdhir/){:target="\_blank"}, a platform to simplify school and learning for students and administrators. If you know anyone interested in EdTech, or if you just want to chat, feel free to reach out to me [here](https://www.linkedin.com/in/rahul-nambiar27/){:target="\_blank"}!
+I'm also co-founder at [Jochi](https://www.jochi.info/){:target="\_blank"} with [Yash Dhir](https://www.linkedin.com/in/yashdhir/){:target="\_blank"}, empowering students to take control of their lives outside of the classroom. If you know anyone interested in EdTech, or if you just want to chat, feel free to reach out to me [here](https://www.linkedin.com/in/rahul-nambiar27/){:target="\_blank"}!
 
 ## Experiences
 
