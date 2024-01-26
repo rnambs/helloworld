@@ -3,7 +3,8 @@ layout: default
 ---
 ## Contact
 
-* Email: **rnambiar**[at]**upenn**[dot]**edu**
+* School Email: **rnambiar**[at]**upenn**[dot]**edu**
+* Work Email: **rahul**[at]**jochi**[dot]**info**
 
 ## Social
 
