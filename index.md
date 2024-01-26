@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="rahulbw.jpg">
+<img class="profile-picture" src="rahulbw.jpeg">
 
 I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything software, data, product, and finance. Currently, I'm a Teaching Assistant for [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="\_blank"} at Penn Engineering, a course on Databases and Information Systems.
 
