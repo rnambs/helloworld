@@ -4,7 +4,9 @@ layout: default
 
 ## About Me
 
-<img src="rahulbw.jpeg" alt="Profile Picture" style="width:200px; height:auto;">
+<div style="text-align:center;">
+    <img src="rahulbw.jpeg" alt="Profile Picture" style="width:200px; height:auto;">
+</div>
 
 I'm co-founder at [Jochi](https://www.jochi.info/){:target="_blank"}, where we're streamlining and empowering academic support centres at K-12 schools to better identify and support students with learning differences. I recently graduated from the University of Pennsylvania, where I pursued a major in Computer Science. At Penn Engineering, I was Teaching Assistant for [CIS 5500: Databases and Information Systems](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="_blank"}. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"} if you're interested in EdTech or just want to chat!
 
