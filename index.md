@@ -49,3 +49,5 @@ At Penn Engineering and Wharton, I took several courses that deepened my interes
 **Penn Garage:** As part of CIS 3500 - Software Engineering, my team developed a marketplace integrated with Penn systems to facilitate item trading among students, focusing on sustainability and convenience.
 
 **Superscalar Pipelined Processor:** For CIS 5710, I built a 5-stage superscalar processor inspired by MIPS architecture, implemented in Verilog, and capable of completing a cycle in approximately 60 ns.
+
+- Updated May 2024
