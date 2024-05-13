@@ -4,45 +4,46 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="rahulbw.jpeg">
+![Profile Picture](rahulbw.jpeg)
 
-I'm a senior at the University of Pennsylvania, majoring in Computer Science. I'm interested and involved in everything software, data, product, and finance. Currently, I'm a Teaching Assistant for [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="\_blank"} at Penn Engineering, a course on Databases and Information Systems.
+I'm co-founder at [Jochi](https://www.jochi.info/){:target="_blank"}, where we're streamlining and empowering academic support centres at K-12 schools to better identify and support students with learning differences. I recently graduated from the University of Pennsylvania, where I pursued a major in Computer Science. At Penn Engineering, I was Teaching Assistant for [CIS 5500: Databases and Information Systems](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="_blank"}. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"} if you're interested in EdTech or just want to chat!
 
-I'm also a co-founder at [Jochi](https://www.jochi.info/){:target="\_blank"}, empowering students with learning differences to take control of their lives outside of the classroom. If you know anyone interested in EdTech and the learning management space, or if you just want to chat, feel free to reach out to me [here](https://www.linkedin.com/in/rahul-nambiar27/){:target="\_blank"}!
+## [Jochi](https://www.jochi.info/){:target="_blank"}
 
-## Experiences
+For students, [Jochi](https://www.jochi.info/){:target="_blank"} is a digital planner that *integrates* with schools' existing learning management systems to pull academic information like *grades, assignments, and tasks*, and then provides tools for assignment organization, effective studying, and accessing support.
 
-Here is a quick run-through of what I've been doing for the past few years.
+Educators leverage Jochi for the wealth of data we provide about how a student is performing inside and outside the classroom. In just a few clicks, they have a complete overview of what their students are working on, where they're falling behind, and key behaviors that are integral to provide targeted support. Jochi also automates the entire process of tracking, monitoring, and reporting to parents or administrators, *saving educators up to 5 hours per week*.
 
-| Year | Where                           | What                         |
-| ---- | ------------------------------- | ---------------------------- |
-| 2023 | Jochi                           | Co-founder, Tech Lead        |
-| 2023 | University of Pennsylvania      | CIS 5500 Teaching Assistant  |
-| 2023 | Rhombus                         | Software Engineer Intern     |
-| 2022 | National Basketball Association | Software Engineer Intern     |
-| 2021 | Wharton Asia Exchange           | Trading Analyst (Quant Team) |
-| 2020 | Occasions                       | Freelance Web Development    |
+Jochi recently won some of the largest awards in higher education from the University of Pennsylvania. Learn more about our impact and vision in these features:
+- [President's Innovation Prize: Making Life Easier for Students with Learning Differences](https://penntoday.upenn.edu/news/presidents-innovation-prize-making-life-easier-students-learning-differences-jochi){:target="_blank"}
+- [Jochi: Venture Lab’s 2024 Startup Challenge Winner Takes Home the President’s Innovation Prize](https://venturelab.upenn.edu/news/jochi-venture-labs-2024-startup-challenge-winner-takes-home-the-presidents-innovation-prize){:target="_blank"}
+
+
+## Experience
+
+Below is a timeline of my key experiences over the past few years:
+
+| Year | Organization                      | Role                           |
+|------|-----------------------------------|--------------------------------|
+| 2023 | Jochi                             | Co-founder, Tech Lead          |
+| 2023 | University of Pennsylvania        | CIS 5500 Teaching Assistant    |
+| 2023 | Rhombus                           | Software Engineer Intern       |
+| 2022 | National Basketball Association   | Software Engineer Intern       |
 
 ## Courses
 
-I've had the chance to take very interesting courses at Penn Engineering and Wharton that have guided me to explore the world of data science, finance, and software engineering. Some of these include CIS 5020: **Analysis of Algorithms**, CIS 5450: **Big Data Analytics**, CIS 5210: **Artificial Intelligence**, EAS 5450: **Entrepreneurship** (with a focus on VC strategy and quantitative financing techniques), MGMT 2670: **Entrepreneurship and Technological Innovation**.
+At Penn Engineering and Wharton, I took several courses that deepened my interest in data science, finance, and software engineering:
 
-I'd love to chat about any/all of these, and you can see their impact in everything I strive to do!
+- CIS 5020: **Analysis of Algorithms**
+- CIS 5450: **Big Data Analytics**
+- CIS 5210: **Artificial Intelligence**
+- EAS 5450: **Entrepreneurship** (focus on VC strategy)
+- MGMT 2670: **Entrepreneurship and Technological Innovation**
 
 ## Projects
 
-**Apple Wallet Pass Creator:** I created a standalone app using Java & Spring to create Apple Wallet passes - you can extend the code to create any type of pass you like. This was an extension of my internship project at Rhombus, and not only was it one of the most fun ones I've done, but I also learnt a lot about cryptography through hashing algorithms and package signing, building microservices through Spring, working with DynamoDB and cloud services, and UI/UX.
+**Apple Wallet Pass Creator:** I developed an app to create Apple Wallet passes during my internship at Rhombus, learning about cryptography, microservices, and UI/UX design.
 
-**Penn Garage:** Worked with 4 friends as an extension of CIS 3500 - Software Engineering. Penn Garage is a (integrated with Penn systems) marketplace that allows students to easily trade/sell items. One of the biggest problems at Penn is the hassle during move-out/move-in, and this allows students to save money and time in a safe and eco-friendly manner. Built on MERN stack.
+**Penn Garage:** As part of CIS 3500 - Software Engineering, my team developed a marketplace integrated with Penn systems to facilitate item trading among students, focusing on sustainability and convenience.
 
-**Superscalar Pipelined Processor:** Built a 5-stage superscalar processor for CIS 5710 - a graduate-level course on computer architecture. Includes a fully pipelined, complete bypassing structure and can complete a single cycle in ~60 ns. Inspired by the MIPS processor architecture, built primarily using Verilog.
-
-**Where2Move:** Created a React-powered app on an AWS SQL server using Express with 3 friends to help users determine the next best place to move. Inputting weather, rent, cost of living, transportation, and 4 other factors outputs the top locations on an interactive map that best suits your preferences. This was a fun project for CIS 5500 - for which I'm a teaching assistant - and showed me the importance of query optimization using caching and indexing to boost the efficiency of deployed applications.
-
-**Fun Projects:** I've had the chance to work on many cool mini-projects through my courses: here are a few of them. Built a fully functional compiler in C for the J programming language for the final project of CIS 2400 - Computer Systems. Translated J code to LC4 - Penn's internal ISA, and connected to an internal simulator to play games such as Wordle. Also built Minesweeper for a class - one of my first OOP products!
-
----
-
-## Boring stuff
-
-Many of my projects have to be in private GitHub repos due to academic integrity rules. If you're interested in any of them, contact me and I'll be happy to chat about them!
+**Superscalar Pipelined Processor:** For CIS 5710, I built a 5-stage superscalar processor inspired by MIPS architecture, implemented in Verilog, and capable of completing a cycle in approximately 60 ns.
