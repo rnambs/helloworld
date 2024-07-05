@@ -8,17 +8,7 @@ layout: default
     <img src="rahulbw.jpeg" alt="Profile Picture" style="width:200px; height:auto;">
 </div>
 
-I'm co-founder at [Jochi](https://www.jochi.info/){:target="_blank"}, where we're streamlining and empowering academic support centres at K-12 schools to better identify and support students with learning differences. I recently graduated from the University of Pennsylvania, where I pursued a major in Computer Science. At Penn Engineering, I was Teaching Assistant for [CIS 5500: Databases and Information Systems](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="_blank"}. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-nambiar27/){:target="_blank"} if you're interested in EdTech or just want to chat!
-
-## [Jochi](https://www.jochi.info/){:target="_blank"}
-
-For students, [Jochi](https://www.jochi.info/){:target="_blank"} is a digital planner that *integrates* with schools' existing learning management systems to pull academic information like *grades, assignments, and tasks*, and then provides tools for assignment organization, effective studying, and accessing support.
-
-Educators leverage Jochi for the wealth of data we provide about how a student is performing inside and outside the classroom. In just a few clicks, they have a complete overview of what their students are working on, where they're falling behind, and key behaviors that are integral to provide targeted support. Jochi also automates the entire process of tracking, monitoring, and reporting to parents or administrators, *saving educators up to 5 hours per week*.
-
-Jochi recently won some of the largest awards in higher education from the University of Pennsylvania. Learn more about our impact and vision in these features:
-- [President's Innovation Prize: Making Life Easier for Students with Learning Differences](https://penntoday.upenn.edu/news/presidents-innovation-prize-making-life-easier-students-learning-differences-jochi){:target="_blank"}
-- [Jochi: Venture Lab’s 2024 Startup Challenge Winner Takes Home the President’s Innovation Prize](https://venturelab.upenn.edu/news/jochi-venture-labs-2024-startup-challenge-winner-takes-home-the-presidents-innovation-prize){:target="_blank"}
+I recently graduated from the University of Pennsylvania, where I pursued a major in Computer Science. At Penn Engineering, I was Teaching Assistant for [CIS 5500: Databases and Information Systems](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="_blank"}.
 
 
 ## Experience
@@ -27,7 +17,7 @@ Below is a timeline of my key experiences over the past few years:
 
 | Year | Organization                      | Role                           |
 |------|-----------------------------------|--------------------------------|
-| 2023 | Jochi                             | Co-founder, Tech Lead          |
+| 2023 | [Jochi](www.jochi.com)                             | Co-founder & CTO          |
 | 2023 | University of Pennsylvania        | CIS 5500 Teaching Assistant    |
 | 2023 | Rhombus                           | Software Engineer Intern       |
 | 2022 | National Basketball Association   | Software Engineer Intern       |
