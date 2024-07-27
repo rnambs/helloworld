@@ -8,7 +8,7 @@ layout: default
     <img src="rahulbw.jpeg" alt="Profile Picture" style="width:200px; height:auto;">
 </div>
 
-I'm Co-Founder and CTO at [Jochi](www.jochi.com){:target="_blank"} where we're helping leading independent schools admit and retain students with data-driven decisions. I recently graduated from the University of Pennsylvania, where I pursued a major in Computer Science.
+I'm Co-Founder and CTO at [Jochi](www.jochi.com){:target="_blank"} where we provide leading independent schools with data-driven insights to solve their problems. I recently graduated from the University of Pennsylvania, where I pursued a major in Computer Science.
 
 At Penn, my co-founder and I won the [President's Innovation Prize](https://penntoday.upenn.edu/news/presidents-innovation-prize-making-life-easier-students-learning-differences-jochi){:target="_blank"}, the biggest award of it's kind in higher education, and got additional grant-funding from the [Draper Foundation and UPenn's Venture Lab](https://venturelab.upenn.edu/news/jochi-venture-labs-2024-startup-challenge-winner-takes-home-the-presidents-innovation-prize){:target="_blank"}. I was also a Teaching Assistant for [CIS 5500: Databases and Information Systems](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/){:target="_blank"} at Penn Engineering.
  
